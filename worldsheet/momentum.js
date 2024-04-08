@@ -1,8 +1,8 @@
 
-import './world.sheet/sheet+'
-import './world.sheet/sheet-'
-import './world.sheet/world%'
-import './world.sheet/world'
+import './WorldSheet/sheet+'
+import './WorldSheet/sheet-'
+import './WorldSheet/world%'
+import './WorldSheet/world'
 export const p1 = 'sheet+'
 export const p2 = 'sheet-'
 export const p3 = 'world'
