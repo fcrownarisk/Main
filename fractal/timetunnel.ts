@@ -14,7 +14,7 @@ void  function HilbertCurve(){
         this.Location= new HilbertCurve()
 }
 void  function kochsnowflake(){
-        this.setInterval=kochsnowflake
+        this.setInterval = kochsnowflake
         this.setTimeout = kochsnowflake
 }
 void  function Mandelbrotset(){
