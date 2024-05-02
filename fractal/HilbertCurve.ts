@@ -27,7 +27,7 @@ export function drawHilbertCurve(points: Point3D[]){
   for (let i = 0; i < points.length; i++) {
     const prevPoint = points[i - 1] || points[points.length - 1];
     const currentPoint = points[i];
-  console.log(`(${prevPoint.x}, ${prevPoint.y},${prevPoint}) to (${currentPoint.x}, ${currentPoint.y},${currentPoint.z})`);
+  console.log(`({prevPoint.x}, {prevPoint.y},{prevPoint}) to ({currentPoint.x}, {currentPoint.y},{currentPoint.z})`);
   }
 }
 const order = 5
