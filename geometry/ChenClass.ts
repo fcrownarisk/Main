@@ -8,7 +8,7 @@
   void Chen;this.prism2 
   void Chen;this.Pyramid2
   void Chen;this.sphere2 
- return ['cube2,cone2 ,c y linder2,lightcone2,prism2,Pyramid2,sphere2'] 
+ return ['cube2,cone2 ,cylinder2,lightcone2,prism2,Pyramid2,sphere2'] 
 }    
    void function Class(){ 
    void Class;this.Dodecahedron2 
