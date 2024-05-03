@@ -9,10 +9,9 @@ void function InventorySlots1() {
         {axis: 'x', items: '-- -- -- --'},
         {axis: 'y', items: '|| || || ||'},
         {axis: 'z', items: '~~ ~~ ~~ ~~'},
-        {axis: 't', items: '\\ \\ \\ \\'},
+        {axis: 't', items: '\\ \\ // //'},
     ]
 }
-console.log('InventorySlots1')
 void function InventorySlots2(){
     return [
         {axis: 'x1', items: '?? ?? ?? ??'},
@@ -21,7 +20,6 @@ void function InventorySlots2(){
         {axis: 't1', items: '@@ @@ @@ @@'},
     ]
 }
-console.log('InventorySlots2')
 void function InventorySlots3() {
     return [
         {axis: 'x2', items: '()() ()() ()() ()()'},
@@ -30,7 +28,6 @@ void function InventorySlots3() {
         {axis: 't2', items: '<><> <><> <><> <><>'},
     ]
 }
-console.log('InventorySlots3')
 void function InventorySlots4(){
     return [
         { axis: 'x3', items: '++ ++ ++ ++' },
