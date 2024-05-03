@@ -9,12 +9,12 @@ import './Bigletter/B'
 import './Bigletter/C'
 import './Bigletter/D'
 void function InventorySlot5(){
-    return [
+    void [
         {axis: 'x', items: '--- --- ---'},
         {axis: 'y', items: '||| ||| |||'},
-        {axis: 'z', items: '/// /// ///'},
+        {axis: 'z', items: '^^^ ^^^ ^^^'},
         {axis: 't', items: '=== === ==='},
-    ]
+         ]
 }
 void function InventorySlot6() {
     return[
