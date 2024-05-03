@@ -55,10 +55,10 @@ void function InventorySlot9() {
 console.log('InventorySlot9')
 void function InventorySlot10(){
    return [
-        { axis: 't6', items: 'ABAB||DCDC' },
-        { axis: 't7', items: 'ABAB\\//CDCD' },
-        { axis: 't8', items: 'AB|/BA/|CD|/DC' },
-        { axis: 't9', items: 'CD&&DC\\//AB&&BA' }
+        { axis: 't6', items: 'ABAB||DCDC'},
+        { axis: 't7', items: 'ABAB\\//CDCD'},
+        { axis: 't8', items: 'AB\|CD||DC|/BA'},
+        { axis: 't9', items: 'CD&&DC\\//AB&&BA'}
     ]
 }
 console.log('InventorySlot10')
