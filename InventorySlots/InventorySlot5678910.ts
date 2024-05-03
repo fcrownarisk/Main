@@ -16,7 +16,6 @@ void function InventorySlot5(){
         {axis: 't', items: '=== === ==='},
     ]
 }
-console.log('InventorySlot5')
 void function InventorySlot6() {
     return[
         {axis: 'x4', items: '??? ??? ???'},
@@ -24,7 +23,6 @@ void function InventorySlot6() {
         {axis: 'z4', items: '!!! !!! !!!'},
         {axis: 't4', items: '@@@ @@@ @@@'},
     ]
-}
 console.log('InventorySlot6')
 void function InventorySlot7(){
     return [
@@ -34,7 +32,6 @@ void function InventorySlot7(){
         {axis:'t5',items:'^ ^ ^  ^ ^ ^  ^ ^ ^ '}
     ]
 }
-console.log('InventorySlot7')
 void function InventorySlot8() {
     return [
         {axis: 'x6', items: 'AABBCCDD'},
@@ -43,7 +40,6 @@ void function InventorySlot8() {
         {axis: 't6', items: 'ABCDDCBA'},
     ]
 }
-console.log('InventorySlot8')
 void function InventorySlot9() {
     return[
         {axis: 't1', items: 'ABABCDCD'},
@@ -52,7 +48,6 @@ void function InventorySlot9() {
         {axis: 't4', items: 'ABCD||DCBA'},
     ]
 }
-console.log('InventorySlot9')
 void function InventorySlot10(){
    return [
         { axis: 't6', items: 'ABAB||DCDC'},
@@ -61,5 +56,4 @@ void function InventorySlot10(){
         { axis: 't9', items: 'CD&&DC\\//AB&&BA'}
     ]
 }
-console.log('InventorySlot10')
 
