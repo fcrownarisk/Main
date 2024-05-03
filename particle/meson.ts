@@ -1,4 +1,4 @@
-import '.Bigletter'
+import './Bigletter'
 import './smallletter'
 import './Letter/midletter'
 import './XYZT'
