@@ -8,4 +8,3 @@
  enum mass{
     mass0 = 0
  }
- console.log(spin,mass,'spin0','mass0')
