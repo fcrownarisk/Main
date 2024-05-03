@@ -19,12 +19,11 @@ enum trace{
 }
 console.log(JSON.parse('trace'))
 enum dettrace{
-     det,trace}
-console.log(dettrace)
+     det,trace
+}
 enum tracedet{
      trace,det
 }
-console.log(tracedet)
 enum PAIMULTILE{
      PAI,MULTIPLE
 }
