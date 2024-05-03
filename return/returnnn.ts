@@ -1,4 +1,4 @@
- import './Letter/cvgl/smallletter/e'
+import './Letter/cvgl/smallletter/e'
 import './Letter/cvgl/smallletter/f'
 import './Letter/cvgl/smallletter/g'
 import './Letter/cvgl/smallletter/h'
