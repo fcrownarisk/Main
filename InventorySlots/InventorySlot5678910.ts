@@ -48,7 +48,7 @@ void function InventorySlot9() {
     return[
         {axis: 't1', items: 'ABABCDCD'},
         {axis: 't2', items: 'DCDCBABA'},
-        {axis: 't3', items: 'AAABBBCCCDDD'},
+        {axis: 't3', items: 'ABCDABCD'},
         {axis: 't4', items: 'ABCD||DCBA'},
     ]
 }
