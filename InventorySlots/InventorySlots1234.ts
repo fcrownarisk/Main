@@ -36,4 +36,3 @@ void function InventorySlots4(){
         { axis: 't3', items: '%% %% %% %%' },
     ]
 }
-console.log('InventorySlots4')
