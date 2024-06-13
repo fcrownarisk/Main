@@ -13,8 +13,3 @@ abstract class Vector9D{
     t5:number
 }
 console.log('t1','t2','t3','t4','t5',Vector9D)
-void function Vector9D(){
-    void Vector9D;[this.Vector2D+this.Vector3D+this.Vector4D]
-    return Vector9D
-}
-console.log('Vector9D')
