@@ -1,6 +1,3 @@
-import '../Vector/Vector2D'
-import '../Vector/Vector3D'
-import '../Vector/Vector4D'
 declare module Vector9D{}
 abstract class Vector9D{
     x:number
