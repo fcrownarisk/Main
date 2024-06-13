@@ -5,7 +5,7 @@ import './dotline/coreline'
      Dot = 0
  }
  enum Line{
-    Line = 0 
+     Line = 0 
  }
  enum DotLine{
      Dot,Line
