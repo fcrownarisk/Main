@@ -1,6 +1,6 @@
 import './Bigletter'
 import './smallletter'
-import './Letter/midletter'
+import './Letter'
 import './XYZT'
 enum PAI{
     ABCD, EFGH, IJKL, MNOP,QRST ,UVW ,XYZ
