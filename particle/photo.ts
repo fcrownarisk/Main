@@ -1,5 +1,4 @@
-
-import './state/coherentState' 
+ import './state/coherentState' 
  import './particle/photo'
  import './particle/fermion'
  enum spin{
@@ -7,4 +6,7 @@ import './state/coherentState'
  }
  enum mass{
     mass0 = 0
+ }
+ enum Angularmomentum{
+    spin0 -> 0 <- mass0
  }
