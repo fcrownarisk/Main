@@ -13,4 +13,11 @@ enum mass{
     mass4 = 10,
     mass5 = 11, 
 }
+enum angularmomentum{
+    spin1 <-> mass0
+    spin3 <-> mass1
+    spin5 <-> mass2
+    spin6 <-> mass3
+    spin7 <-> mass4
+}
 
