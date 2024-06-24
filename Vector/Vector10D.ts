@@ -8,7 +8,7 @@ import '../XYZT/t4z4y4x4'
 import '../XYZT/t5z5y5x5'
 import '../XYZT/t6z6y6x6' 
  declare module Vector10D {}
-class Vector10D{
+class Vector10D(){
     x:number
     y:number
     z:number
@@ -24,4 +24,3 @@ void function Vector10D(){
     void Vector10D [this.Vector5D+this.Vector6D+this.Vector7D]
     return Vector10D
 }
-console.log('Vector10D')
