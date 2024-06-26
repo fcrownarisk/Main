@@ -9,15 +9,15 @@ export function CantorLine(){
        this.String = CantorLine.toString
        this.String = CantorLine.toString
 }
-export  function HilbertCurve(){
+export function HilbertCurve(){
         this.Storage = new  HilbertCurve()
         this.Location= new HilbertCurve()
 }
-export  function kochsnowflake(){
+export function kochsnowflake(){
         this.setInterval = kochsnowflake
         this.setTimeout = kochsnowflake
 }
-export  function Mandelbrotset(){
+export function Mandelbrotset(){
         this.moveBy = Mandelbrotset
         this.moveTo = Mandelbrotset
 }
