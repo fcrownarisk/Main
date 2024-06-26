@@ -4,8 +4,8 @@
  void function opq() {
       void (parseInt.toLocaleString)
       void (parseFloat.toString)
-      void 'o = x * y + z'
-      void 'p = x + y * z'
-      void 'q = y * z + x'
+      this.o = this.x * this.y + this.z
+      this.p = this.x + this.y * this.z
+      this.q = this.y * this.z + this.x
       return ['o','p','q']
  }
