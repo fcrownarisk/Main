@@ -2,8 +2,8 @@
  declare module y{}
  declare module z{}
  void function ijk(){
-    void 'i = x + y + z'
-    void 'j = y + x + z'
-    void 'k = z + x + y'
+    this.i = this.x + this.y + this.z
+    this.j = this.y + this.x + this.z
+    this.k = this.z + this.x + this.y
     return ['i','j','k']
  }
