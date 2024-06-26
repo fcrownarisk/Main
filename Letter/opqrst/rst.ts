@@ -3,8 +3,8 @@
  declare module z{} 
  void function rst(){
  void  [`Storage.getLocalStorage.setLocalStorage`]
-   void 'r = x /y/ z'
-   void 's = y /x/ z'
-   void 't = z /x/ z'
+   this.r = this.x / this.y / this.z
+   this.s = this.y / this.x / this.z
+   this.t = this.z / this.x / this.z
    return ['r','s','t']
  } 
