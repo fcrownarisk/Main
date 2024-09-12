@@ -13,7 +13,7 @@ enum mass{
     mass4 = 10,
     mass5 = 11, 
 }
-enum angularmomentum{
+enum exchange{
     spin1 <-> mass0
     spin3 <-> mass1
     spin5 <-> mass2
