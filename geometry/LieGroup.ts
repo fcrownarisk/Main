@@ -16,4 +16,3 @@ import './VolumnSurface'
     void Group;this.tetrahedron
    return ['Dodecahedron2,Icosahedron2,Octahedron2,trahedron2']
   }
- console.log('CSS')
