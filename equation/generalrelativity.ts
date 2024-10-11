@@ -15,7 +15,7 @@ import './XYZT/t4z4y4x4'
 import './XYZT/t5y5y5t5'
 import './XYZT/t6z6y6x6'
 void function Vector(){
-    void  'Vector2D+Vector11D'
+    void  'Vector2D+Vector6D'
     void  'Vector3D*Vector4D*Vector5'
     void  'Vector7D/Vector8D'
     void  'Vector9D%Vector10D%Vector11D'
