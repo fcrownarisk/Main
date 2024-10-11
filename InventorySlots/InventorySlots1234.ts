@@ -22,10 +22,11 @@ void function InventorySlots2(){
 }
 void function InventorySlots3() {
     return [
-        {axis: 'x2', items: '()() ()() ()() ()()'},
-        {axis: 'y2', items: '[][] [][] [][] [][]'},
-        {axis: 'z2', items: '{}{} {}{} {}{} {}{}'},
-        {axis: 't2', items: '<><> <><> <><> <><>'},
+        {axis: 'x2', items: '<><> <><> <><> <><>'},
+        {axis: 'y2', items: '()() ()() ()() ()()'},
+        {axis: 'z2', items: '[][] [][] [][] [][]'},
+        {axis: 't2', items: '{}{} {}{} {}{} {}{}'},
+        
     ]
 }
 void function InventorySlots4(){
