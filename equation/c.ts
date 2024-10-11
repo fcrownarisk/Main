@@ -1,2 +1,2 @@
 declare module c{}
-export const c=299792458
+const c = 299792458
