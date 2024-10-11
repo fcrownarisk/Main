@@ -4,10 +4,10 @@ import './XYZT/t6z6y6x6'
 import './return/returnn'
 import './return/returnnn'
 import './return/returnnnn'
-import './Bigletter/A'
-import './Bigletter/B'
-import './Bigletter/C'
-import './Bigletter/D'
+//import './Bigletter/A'
+//import './Bigletter/B'
+//import './Bigletter/C'
+//import './Bigletter/D'
 void function InventorySlot5(){
     void [
         {axis: 'x', items: '--- --- ---'},
@@ -23,7 +23,6 @@ void function InventorySlot6() {
         {axis: 'z4', items: '!!! !!! !!!'},
         {axis: 't4', items: '@@@ @@@ @@@'},
     ]
-console.log('InventorySlot6')
 void function InventorySlot7(){
     return [
         {axis:'x5',items:'()()() ()()() ()()()'},
@@ -32,28 +31,28 @@ void function InventorySlot7(){
         {axis:'t5',items:'^ ^ ^  ^ ^ ^  ^ ^ ^ '}
     ]
 }
-void function InventorySlot8() {
-    return [
-        {axis: 'x6', items: 'AABBCCDD'},
-        {axis: 'y6', items: 'DDCCBBAA'},
-        {axis: 'z6', items: 'ABABCCDD'},
-        {axis: 't6', items: 'ABCDDCBA'},
-    ]
-}
-void function InventorySlot9() {
-    return[
-        {axis: 't1', items: 'ABABCDCD'},
-        {axis: 't2', items: 'DCDCBABA'},
-        {axis: 't3', items: 'ABCDABCD'},
-        {axis: 't4', items: 'ABCD||DCBA'},
-    ]
-}
-void function InventorySlot10(){
-   return [
-        { axis: 't6', items: 'ABAB||DCDC'},
-        { axis: 't7', items: 'ABAB\\//CDCD'},
-        { axis: 't8', items: 'AB\|CD||DC|/BA'},
-        { axis: 't9', items: 'CD&&DC\\//AB&&BA'}
-    ]
-}
+//void function InventorySlot8() {
+//    return [
+//        {axis: 'x6', items: 'AABBCCDD'},
+//        {axis: 'y6', items: 'DDCCBBAA'},
+//        {axis: 'z6', items: 'ABABCCDD'},
+//        {axis: 't6', items: 'ABCDDCBA'},
+//    ]
+//}
+//void function InventorySlot9() {
+//    return[
+//        {axis: 't1', items: 'ABABCDCD'},
+//        {axis: 't2', items: 'DCDCBABA'},
+//        {axis: 't3', items: 'ABCDABCD'},
+//        {axis: 't4', items: 'ABCD||DCBA'},
+//    ]
+//}
+//void function InventorySlot10(){
+//   return [
+//        { axis: 't6', items: 'ABAB||DCDC'},
+//        { axis: 't7', items: 'ABAB\\//CDCD'},
+//        { axis: 't8', items: 'AB\|CD||DC|/BA'},
+//        { axis: 't9', items: 'CD&&DC\\//AB&&BA'}
+//    ]
+//}
 
