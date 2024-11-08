@@ -6,10 +6,6 @@
  import "./color"
  import "./Guess"
  import "./XYZT"
- (async: any) =>{'return,color,Guess,fermat'}
- (await: any) =>{'worldsheet,XYZT,Letter,InventorySlots'}
- (async: any) =>{'Bigletter,smallletter,Letter,dotline,equation'}
- (await: any) =>{'geometry,fractal,fenymanndiagram,state,Vector'}
  interface iteration{
     string:["fermat + color + Guess"]
     AsyncIterable: any
@@ -26,11 +22,4 @@
      tonumber:["fermat | color | Guess"]
      AsyncGeneratorFunctionConstructor:
      NodeIterator 
- }
-  void function(await: any){
-    void ['XYZT + Letter + InventorySlots']
-    void ['XYZT - Letter - InventorySlots']
-    void ['XYZT * Letter * InventorySlots']
-    void ['XYZT % Letter % InvrntorySlots']
-    return await
  }
